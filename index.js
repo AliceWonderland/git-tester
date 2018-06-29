@@ -1,4 +1,4 @@
-// MASTER
+// STAGING-OLD
 function test(){
-    return 'master!';
+    return 'old staging!';
 }
