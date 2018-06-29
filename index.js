@@ -1,4 +1,4 @@
-// STAGING-OLD
+// TVG400
 function test(){
-    return 'old staging!';
+    return 'from old staging!';
 }
