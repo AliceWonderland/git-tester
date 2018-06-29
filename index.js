@@ -1,4 +1,4 @@
-// STAGING BRANCH
+// STAGING
 function test(){
     return 'staging!';
 }
