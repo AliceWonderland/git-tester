@@ -1,3 +1,4 @@
+// STAGING BRANCH
 function test(){
-    return 'master!';
+    return 'staging!';
 }
