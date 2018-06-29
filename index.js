@@ -1,4 +1,4 @@
-// MASTER
+// PRODUCTION
 function test(){
-    return 'master!';
+    return 'production!';
 }
