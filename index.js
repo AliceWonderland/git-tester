@@ -1,4 +1,4 @@
-// TVG400
+// TVG-400
 function test(){
     return 'from old staging!';
 }
