@@ -1,4 +1,8 @@
-// TVG-200
+// PRODUCTION
 function test(){
-    return 'from production!';
+    return 'production!';
+}
+
+function TVG200(){
+    return 'tvg200!';
 }
